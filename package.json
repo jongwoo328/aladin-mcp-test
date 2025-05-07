@@ -9,6 +9,10 @@
 	},
 	"keywords": [],
 	"author": "",
+	"files": ["index.js", "db.sqlite"],
+	"bin": {
+		"@jongwoo328/test-aladin-mcp": "./index.js"
+	},
 	"license": "MIT",
 	"type": "module",
 	"packageManager": "pnpm@10.8.1",
