@@ -13,6 +13,9 @@
 	"bin": {
 		"@jongwoo328/test-aladin-mcp": "./index.js"
 	},
+	"publishConfig": {
+		"access": "public"
+	},
 	"license": "MIT",
 	"type": "module",
 	"packageManager": "pnpm@10.8.1",
