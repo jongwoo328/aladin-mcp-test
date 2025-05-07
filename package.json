@@ -1,5 +1,5 @@
 {
-	"name": "mcp-test-js",
+	"name": "@jongwoo328/test-aladin-mcp",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
@@ -9,7 +9,7 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "ISC",
+	"license": "MIT",
 	"type": "module",
 	"packageManager": "pnpm@10.8.1",
 	"dependencies": {
